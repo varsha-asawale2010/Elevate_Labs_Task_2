@@ -1,4 +1,4 @@
-# Elevate_Labs_Task_2 
+# Elevate_Labs_Task_2 Phishing 
 ## Identify phishing characteristics in a suspicious email sample. <br>
  Key Characteristics of a Phishing Email<br>
  1.Urgency or Threats<br>
@@ -29,7 +29,7 @@
  ## This is overall infomation about SPF/DKIM/DMARC/RBL report:<br>
  Report_LinK:-https://github.com/varsha-asawale2010/Elevate_Labs_Task_2/blob/main/DKMI-test-report.txt
 
-## By Using Another Tool 
+## By Using Another Tool Google Admin Toolbox Messageheader 
  Header:![image](https://github.com/user-attachments/assets/18bf545b-871d-4fa9-b1c2-f0a56133618b)
  Output:![image](https://github.com/user-attachments/assets/5e4835d4-205f-410d-855f-e7290d762e91)
 
