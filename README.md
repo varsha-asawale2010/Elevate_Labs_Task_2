@@ -37,6 +37,28 @@ Fake domain:	The email comes from securebank-alerts.com, not the official secure
 Urgent call to action:	Used to rush the victim into clicking without verifying.<br>
 No HTTPS mentioned: Most phishing pages use unsecured HTTP or self-signed HTTPS certs.<br>
 
+Phishing Traits Summary<br>
+1. Sender Email:	security-update@securebank-alerts.com	<br>
+   Description:Spoofed/fake domain trying to look like a real bank <br>
+ 
+2. Urgency & Threats:	"Unusual login attempt", "verify immediately", "account will be permanently restricted"	<br>
+   Description:Creates fear and pressure to act without thinking.<br>
+ 
+3. Suspicious Link:	“👉 Click here to verify your account”	<br>
+   Description:Likely points to a malicious or fake login page (URL is hidden).<br>
+ 
+4. No Personalization: "Dear Customer"	<br>
+   Description:Real companies typically address you by name.<br>
+ 
+5. Generic Signature:	"SecureBank Security Team"<br>
+   Description:No real contact info or verifiable signature.<br>
+ 
+6. No Attachments:	N/A	<br>
+   Description:This phishing email relies on link-based deception, not files.<br>
+  
+7. Grammar & Spelling:	No errors<br>
+   Description:Well-written, which shows phishers are improving quality.
+
 
 
 
