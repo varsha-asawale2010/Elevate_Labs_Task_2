@@ -27,6 +27,16 @@
  This is SPF/DKIM/DMARC/RBL report:<br>
  Report_LinK:-https://github.com/varsha-asawale2010/Elevate_Labs_Task_2/blob/main/DKMI-test-report.txt
 
+ Suspicious Link:
+ http://securebank-alerts.com/verify-login
+or
+http://securebank.security-authenticate.com<br>
+Why It’s Suspicious:<br>
+Generic anchor: text	"Click here" hides the true destination of the link.<br>
+Fake domain:	The email comes from securebank-alerts.com, not the official securebank.com.<br>
+Urgent call to action:	Used to rush the victim into clicking without verifying.<br>
+No HTTPS mentioned: Most phishing pages use unsecured HTTP or self-signed HTTPS certs.<br>
+
 
 
 
