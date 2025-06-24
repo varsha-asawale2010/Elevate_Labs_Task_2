@@ -25,7 +25,7 @@
  ![image](https://github.com/user-attachments/assets/6cb14149-0b94-44aa-9f52-1d9861a7257e)
 
  This is SPF/DKIM/DMARC/RBL report:<br>
- Report_LinK:-
+ Report_LinK:-https://github.com/varsha-asawale2010/Elevate_Labs_Task_2/blob/main/DKMI-test-report.txt
 
 
 
